@@ -27,15 +27,15 @@ This VBA macro automatically creates hyperlinks from in-text citations to their 
 Example outputs are available in the `Example/` folder.
 You can **click to open or download** them directly:
 
-* [Numeric citation style example](/Example/顺序编码.pdf)
-* [Author-year style (link year only)](/Example/作者-年（只链接年份）.pdf)
-* [Author-year style (link all parts)](/Example/作者-年（全部链接）.pdf)
+* [Numeric citation style example](/Example/顺序编码.pdf) [📥[Download](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/顺序编码.pdf)]
+* [Author-year style (link year only)](/Example/作者-年（只链接年份）.pdf) [📥[Download](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/作者-年（只链接年份）.pdf)]
+* [Author-year style (link all parts)](/Example/作者-年（全部链接）.pdf) [📥[Download](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/作者-年（全部链接）.pdf)]
 
 ---
 
 ## ⚙️ Usage
 
-1. Download [`ZoteroCrossRef.bas`](./ZoteroCrossRef.bas).
+1. Download [`ZoteroCrossRef.bas`](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/ZoteroCrossRef.bas).
 2. Open and **backup** your Word document containing Zotero citations and bibliography.
 3. Import and run the VBA macro `ZoteroCrossRef`.
 4. Check that:
@@ -74,15 +74,15 @@ ZoteroCrossRef 是一个用于 **在 Microsoft Word 中建立 Zotero 引文与�
 
 在仓库的 `Example/` 文件夹中提供了运行结果示例，点击下方链接可直接查看或下载：
 
-* [顺序编码](./Example/顺序编码.pdf)
-* [作者-年（只链接年份）](./Example/作者-年（只链接年份）.pdf)
-* [作者-年（全部链接）](./Example/作者-年（全部链接）.pdf)
+* [顺序编码](./Example/顺序编码.pdf) [📥[下载](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/顺序编码.pdf)]
+* [作者-年（只链接年份）](./Example/作者-年（只链接年份）.pdf) [📥[下载](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/作者-年（只链接年份）.pdf)]
+* [作者-年（全部链接）](./Example/作者-年（全部链接）.pdf) [📥[下载](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/Example/作者-年（全部链接）.pdf)]
 
 ---
 
 ## ⚙️ 使用方法
 
-1. 下载 [`ZoteroCrossRef.bas`](./ZoteroCrossRef.bas)；
+1. 下载 [`ZoteroCrossRef.bas`](https://github.com/theFool-wn/ZoteroCrossRef/raw/main/ZoteroCrossRef.bas)；
 2. 打开并**备份**含有 Zotero 引文与参考文献的 Word 文档；
 3. 载入并运行宏 `ZoteroCrossRef`；
 4. 检查是否：
@@ -98,7 +98,9 @@ ZoteroCrossRef 是一个用于 **在 Microsoft Word 中建立 Zotero 引文与�
 ## 🧑‍💻 Version
 
 **Created:** Wang Nan, 2025.10.18 – 2025.10.19
+
 **Revised:** Wang Nan, 2025.10.19
+
 **Contact:**
 
 * [wang.nan@buaa.edu.cn](mailto:wang.nan@buaa.edu.cn)
@@ -122,4 +124,5 @@ You are free to use, share, and adapt the code for **non-commercial purposes**, 
 * You **distribute any modifications under the same license**.
 
 © 2025 Wang Nan. All rights reserved.
+
 
