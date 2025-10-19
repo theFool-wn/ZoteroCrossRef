@@ -1,6 +1,6 @@
 # ZoteroCrossRef
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)![Made by Wang Nan](https://img.shields.io/badge/Made%20by-Wang%20Nan-brightgreen)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  ![Made by Wang Nan](https://img.shields.io/badge/Made%20by-Wang%20Nan-brightgreen)
 
 Establish cross-references between Zotero citations and the bibliography in Microsoft Word.
 This VBA macro automatically creates hyperlinks from in-text citations to their corresponding bibliography entries, improving navigation and citation integrity in academic documents.
@@ -48,7 +48,7 @@ You can **click to open or download** them directly:
 
 # ZoteroCrossRef（中文说明）
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)![Made by Wang Nan](https://img.shields.io/badge/Made%20by-Wang%20Nan-brightgreen)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  ![Made by Wang Nan](https://img.shields.io/badge/Made%20by-Wang%20Nan-brightgreen)
 
 ZoteroCrossRef 是一个用于 **在 Microsoft Word 中建立 Zotero 引文与参考文献之间交叉引用** 的 VBA 宏。
 它可以自动为正文中的引文添加超链接，使其跳转到对应的参考文献条目，方便学术文档的阅读与校对。
@@ -122,3 +122,4 @@ You are free to use, share, and adapt the code for **non-commercial purposes**, 
 * You **distribute any modifications under the same license**.
 
 © 2025 Wang Nan. All rights reserved.
+
